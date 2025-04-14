@@ -16,7 +16,6 @@ Nice to meet you! I'm Alex, an aspiring software engineer and alumni of [Bucknel
 
 ## You can also find me on:
 - [My LinkedIn](https://www.linkedin.com/in/alexander-bigley-b7897a22a/) 
-- [My resume](file:///Users/alexbigley/Downloads/Alexander%20Bigley%20-%20Resume%20v5.pdf)
 
 <!--
 **alexbigley/alexbigley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
