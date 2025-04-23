@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Nice to meet you! I'm Alex, an aspiring software engineer and alumni of [Bucknell University](https://www.bucknell.edu/), with a passion for programming and innovative website design, and a love of learning new skills and helping others however I can.
+Nice to meet you! I'm Alex, an aspiring software engineer and alumni of [Bucknell University](https://www.bucknell.edu/), with a passion for programming and innovative website design. I love the creative process that goes into designing software, and I specialize in approaching programming issues from an artistic mindset - trying to come up with solutions that aren't just efficient, but innovative and unique, that will spread inspiration and joy to anyone who interacts with them.
 
 ## I am currently working at:
 - **Walt Disney World** as a member of the Disney College Program!!! 🏰✨
